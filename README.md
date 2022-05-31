@@ -17,7 +17,7 @@ O projeto foi feito em C.
 The project was done with C.
 
 
-<img src="recta.mov" alt="page-home">
+<img src="recta.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
