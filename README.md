@@ -6,7 +6,7 @@
 <p align="center">
 Trabalho em C
     
-Programa sobre retãngulos com movimentação na tela
+Programa sobre retãngulos com queda e reduzidos ao chegar ao chão
 </p>
 
 📌 O Mundo dos Retângulos 
